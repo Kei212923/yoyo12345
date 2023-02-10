@@ -1,14 +1,74 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1894.6">
-  <style type="text/css">
-  </style>
+<meta charset="utf-8">
+<meta name=“description” content=“This is a website that to introduce my favorite artist katorei”>
+<meta name=“viewport” content=“width=device-width, initial-scale=1”>
+
+<style>
+body {
+  background-color: #ADD8E6;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 80px;
+}
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 80px;
+}
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 18px;
+}
+</style>
+
+<title>She is blue </title>
 </head>
+
 <body>
+
+<!headings>
+<h1>Katorei</h1>
+<h2> She is blue</h2>
+<h3>藍色有著各式各樣的表情，能代表各式各樣的意義，有鮮豔爽朗的印象，也有陰暗憂傷的感覺，是因人而異的自由色彩。人氣插畫家KATOREI睽違四年的最新作品集「Our blue」，收錄了約100張畫作，內容包括特地繪製的最新創作、曾發表過的商業作品、再潤飾過的原創作品…等等，以藍色和青春少女為主的豐富插畫，呈現出宛如詩歌的迷人世界。生嫩青澀的、活力充沛的、懷舊的、歡快的…，在KATOREI的魅力創作裡，希望大家都能找到屬於自己的藍色。</h3>
+
+
+
+<!Links>
+<a href="https://www.instagram.com/katorei_/">Learn more</a>
+</br> </br>
+
+
+<!image>
+<img src="https://pbs.twimg.com/media/Fm_kaeGagAYz8qw?format=jpg&name=medium" alt="mirrorchristmas" width="600"class="center">
+
+<!list>
+<h2>Core Memeber</h2>
+
+<h3>
+  <ul>
+  <li>Katorei</li>
+</ul>  </h3>
+
+
 </body>
 </html>
+
+
+
+
